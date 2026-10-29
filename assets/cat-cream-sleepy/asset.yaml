@@ -1,0 +1,48 @@
+# descriptive: find it and understand it
+id: cat-cream-sleepy
+title: Sleepy cream cat lying down
+description: A low, round cream cat-like creature lies on its paws with a very
+  broad, sleepy human face turned to the viewer, half-closed eyes, a faint smile
+  and a stubbly chin. Small pointed ears with pink interiors, soft fur speckled
+  with brown and a long tail wrapped around its forepaws at the lower right.
+  Painted in the manner of a bestiary miniature, on a transparent background.
+type: illustration
+categories:
+  - animals
+  - hybrids
+  - fantasy
+subjects:
+  - cat
+  - creature
+  - face
+  - fur
+  - tail
+  - drollery
+colors:
+  - cream
+  - tan
+  - brown
+facing: viewer
+view: three-quarter
+composition: single-figure
+
+# structural: how it is organised and related
+group: cats
+render:
+  image: {}
+usage_notes:
+  - Complete figure; keep proportions and do not display wider than its native
+    size.
+display_width: [ 160, 300 ]
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Small master cut from a comparison sheet; the painting softens above
+  its native size and the shaggy outline carries a pale fringe that shows on
+  dark grounds.
+master: master.png
+provenance:
+  method: reference-guided-ai-generation
+license: null

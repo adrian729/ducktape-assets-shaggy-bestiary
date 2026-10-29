@@ -1,0 +1,50 @@
+# descriptive: find it and understand it
+id: cat-angular-face
+title: Scowling pale cat with angular face
+description: A pale cream shaggy cat-like creature with a narrow, angular human
+  face sits upright and scowls at the viewer, with slanted eyes under a heavy
+  brow, a small red mouth, long whiskers and a forked beard. Tall pointed ears
+  with pink interiors, matted fur speckled with brown, and a thick tail curling
+  up behind it to the right. Painted in the manner of a bestiary miniature, on a
+  transparent background.
+type: illustration
+categories:
+  - animals
+  - hybrids
+  - fantasy
+subjects:
+  - cat
+  - creature
+  - face
+  - beard
+  - fur
+  - tail
+  - drollery
+colors:
+  - cream
+  - tan
+  - brown
+facing: viewer
+view: three-quarter
+composition: single-figure
+
+# structural: how it is organised and related
+group: cats
+render:
+  image: {}
+usage_notes:
+  - Complete figure; keep proportions and do not display wider than its native
+    size.
+display_width: [ 160, 260 ]
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Small master cut from a comparison sheet; the painting softens above
+  its native size and the shaggy outline carries a pale fringe that shows on
+  dark grounds.
+master: master.png
+provenance:
+  method: reference-guided-ai-generation
+license: null

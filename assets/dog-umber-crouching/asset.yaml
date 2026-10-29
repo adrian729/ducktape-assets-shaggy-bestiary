@@ -1,0 +1,43 @@
+# descriptive: find it and understand it
+id: dog-umber-crouching
+title: Sorrowful umber dog crouching
+description: A long, dark umber dog-like creature crouches on short legs and looks at the viewer with a narrow, sorrowful human face, raised brows, downturned eyes, a red mouth and a hanging pale beard. Dense shaggy fur in dark brown and tan over the whole body, dark paws and a large feathered tail curling up at the right. Painted in the manner of a bestiary miniature, on a transparent background.
+type: illustration
+categories:
+  - animals
+  - hybrids
+  - fantasy
+subjects:
+  - dog-like-creature
+  - creature
+  - face
+  - beard
+  - fur
+  - tail
+  - drollery
+colors:
+  - brown
+  - tan
+  - cream
+  - black
+facing: viewer
+view: three-quarter
+composition: single-figure
+
+# structural: how it is organised and related
+group: dogs
+render:
+  image: {}
+usage_notes:
+  - Complete figure; keep proportions and do not display wider than its native size.
+display_width: [ 160, 320 ]
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Small master cut from a comparison sheet; the painting softens above its native size and the shaggy outline carries a pale fringe that shows on dark grounds.
+master: master.png
+provenance:
+  method: reference-guided-ai-generation
+license: null

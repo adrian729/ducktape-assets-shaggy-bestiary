@@ -1,0 +1,51 @@
+# descriptive: find it and understand it
+id: cat-charcoal-hunched
+title: Hunched charcoal cat with moustache
+description: A rounded charcoal grey cat-like creature crouches with high
+  hunched shoulders and looks at the viewer with a compact human face, wide
+  eyes, a red mouth, a pale moustache and a short pale beard. Small pointed
+  ears, dense dark fur streaked with cream, pale paws and a dark tail curled up
+  behind it to the right. Painted in the manner of a bestiary miniature, on a
+  transparent background.
+type: illustration
+categories:
+  - animals
+  - hybrids
+  - fantasy
+subjects:
+  - cat
+  - creature
+  - face
+  - beard
+  - fur
+  - tail
+  - drollery
+colors:
+  - gray
+  - brown
+  - cream
+  - black
+facing: viewer
+view: three-quarter
+composition: single-figure
+
+# structural: how it is organised and related
+group: cats
+render:
+  image: {}
+usage_notes:
+  - Complete figure; keep proportions and do not display wider than its native
+    size.
+display_width: [ 160, 300 ]
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Small master cut from a comparison sheet; the painting softens above
+  its native size and the shaggy outline carries a pale fringe that shows on
+  dark grounds.
+master: master.png
+provenance:
+  method: reference-guided-ai-generation
+license: null
